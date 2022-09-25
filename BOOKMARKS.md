@@ -1,3 +1,4 @@
+- [IP Network Address Calculator](https://codebox.net/pages/ip-network-address-calculator) #tools#network
 - [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) #learning#sysadmin
 - [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) #learning#sysadmin
 - [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) #awesome#ressources#sysadmin
