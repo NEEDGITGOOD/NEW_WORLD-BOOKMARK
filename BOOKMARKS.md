@@ -1,4 +1,4 @@
-- [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
+
 
 
 
@@ -17,6 +17,7 @@ Ressources/Learning
 - [Practice to become a Windows sysadmin?](https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/) #sysadmin#learning#ressources
 - [index - sysadmin](https://www.reddit.com/r/sysadmin/wiki/index/) #sysadmin#learning
 - [System administrator leveling matrix - Google Drive](https://docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html) #sysadmin#learning
+- [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 
 
 MD101
