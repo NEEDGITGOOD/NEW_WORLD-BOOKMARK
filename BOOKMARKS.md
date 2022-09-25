@@ -4,9 +4,9 @@
 
 
 Ressources/Learning
-- [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) Podcast #it#ressources
-- [Training](https://learn.microsoft.com/en-us/training/) #courses#learning
-with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) #learning#sysadmin
+- [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) IT Podcasts
+- [Training](https://learn.microsoft.com/en-us/training/) MS based learn path
+with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) Sysadmin Questionaire
 - [trimstray/test-your-sysadmin-skills: A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields 
 - [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) #learning#sysadmin
 - [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) #learning#sysadmin
