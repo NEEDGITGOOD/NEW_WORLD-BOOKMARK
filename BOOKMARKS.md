@@ -12,18 +12,18 @@ Ressources/Learning
 - [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) Dokumentation about certain IT Concepts
 - [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) 
 - [ms/ad - sysadmin](https://www.reddit.com/r/sysadmin/wiki/ms/ad/) Active Directory Ressources
-- [faq - sysadmin](https://www.reddit.com/r/sysadmin/wiki/faq/) #learning#ressources#sysadmin
-- [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html) #learning#sysadmin
+- [faq - sysadmin](https://www.reddit.com/r/sysadmin/wiki/faq/) Reddit Sysadmin FAQ
+- [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html) How to Ask Questions
 - [Practice to become a Windows sysadmin?](https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/) #sysadmin#learning#ressources
-- [index - sysadmin](https://www.reddit.com/r/sysadmin/wiki/index/) #sysadmin#learning
-- [System administrator leveling matrix - Google Drive](https://docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html) #sysadmin#learning
+- [index - sysadmin](https://www.reddit.com/r/sysadmin/wiki/index/) Reddit Sysadmin Wiki
+- [System administrator leveling matrix - Google Drive](https://docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html) Sysadmin Matrix
 - [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 
 
 Awesome - Massive Lists of Ressources
-- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) #vulnerable#list#awesome
-- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint#awesome
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) #awesome#piracy
+- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable)
+- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) 
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) 
 
 MD101
 - [Practice Test MD-101: Managing Modern Desktops](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__hmB6OFUMkg2WjJKR0k3UTZZNTY0WVhESjc4VFhGTS4u) Practice Tests
