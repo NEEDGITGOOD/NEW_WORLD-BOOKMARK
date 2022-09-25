@@ -1,3 +1,4 @@
+- [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) Podcast #it#ressources
 - [Pushshift Reddit Search](https://redditsearch.io/) Search Reddit #tools#reddit
 - [WADComs](https://wadcoms.github.io/#) Commandlist #offensive-security#netsec#osint
 - [Practice Test MD-101: Managing Modern Desktops](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__hmB6OFUMkg2WjJKR0k3UTZZNTY0WVhESjc4VFhGTS4u) #md101
