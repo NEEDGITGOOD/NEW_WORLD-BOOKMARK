@@ -1,3 +1,4 @@
+- [Training](https://learn.microsoft.com/en-us/training/) #courses#learning
 - [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) Podcast #it#ressources
 - [Pushshift Reddit Search](https://redditsearch.io/) Search Reddit #tools#reddit
 - [WADComs](https://wadcoms.github.io/#) Commandlist #offensive-security#netsec#osint
