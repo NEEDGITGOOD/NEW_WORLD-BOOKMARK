@@ -1,1 +1,2 @@
+- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint
 - [OpenVAS - Open Vulnerability Assessment Scanner](https://www.openvas.org/) #tools
