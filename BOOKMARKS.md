@@ -1,3 +1,4 @@
+- [index - sysadmin](https://www.reddit.com/r/sysadmin/wiki/index/) #sysadmin#learning
 - [System administrator leveling matrix - Google Drive](https://docs.google.com/spreadsheets/d/1FBr20VIOePQH2aAH2a_6irvdB1NOTHZaD8U5e2MOMiw/pub?output=html) #sysadmin#learning
 - [trimstray/test-your-sysadmin-skills: A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) #learning#sysadmin
 - [Training](https://learn.microsoft.com/en-us/training/) #courses#learning
