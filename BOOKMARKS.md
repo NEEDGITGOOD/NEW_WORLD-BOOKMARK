@@ -6,7 +6,7 @@
 
 Ressources/Learning
 - [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) IT Podcasts
-- [Training](https://learn.microsoft.com/en-us/training/) MS based learn path
+- [MS Learn ](https://learn.microsoft.com/en-us/training/) MS based learn path
 - [trimstray/test-your-sysadmin-skills: A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields  with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) Sysadmin Questionaire
 - [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) #learning#sysadmin
 - [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) #learning#sysadmin
@@ -20,20 +20,21 @@ Ressources/Learning
 - [trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 
 
+Awesome - Massive Lists of Ressources
+- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) #vulnerable#list#awesome
+- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint#awesome
+- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) #awesome#piracy
+
 MD101
 - [Practice Test MD-101: Managing Modern Desktops](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__hmB6OFUMkg2WjJKR0k3UTZZNTY0WVhESjc4VFhGTS4u) #md101
 - [How to create an Active Directory server in Windows Server 2003 - Windows Server](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/create-an-active-directory-server) #active-directory
 - [Microsoft MD-101 Free Certification Exam Material | ExamTopics](https://www.examtopics.com/exams/microsoft/md-101/) #md101
 
 
-Awesome
-- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) #vulnerable#list#awesome
-- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint#awesome
-- [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) #awesome#piracy
 
 Osint
-- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint
-- [WADComs](https://wadcoms.github.io/#) Commandlist #offensive-security#netsec#osint
+- [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) 
+- [WADComs](https://wadcoms.github.io/#) interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments
 
 
 Tools
