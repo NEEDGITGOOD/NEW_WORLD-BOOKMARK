@@ -1,3 +1,4 @@
+- [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) #awesome#ressources#sysadmin
 - [ms/ad - sysadmin](https://www.reddit.com/r/sysadmin/wiki/ms/ad/) #active-directory#sysadmin#learning
 - [faq - sysadmin](https://www.reddit.com/r/sysadmin/wiki/faq/) #learning#ressources#sysadmin
 - [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html) #learning#sysadmin
