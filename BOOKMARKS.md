@@ -1,2 +1,3 @@
+- [kaiiyer/awesome-vulnerable](https://github.com/kaiiyer/awesome-vulnerable) #vulnerable#list#awesome
 - [jivoi/awesome-osint: A curated list of amazingly awesome OSINT](https://github.com/jivoi/awesome-osint) #osint
 - [OpenVAS - Open Vulnerability Assessment Scanner](https://www.openvas.org/) #tools
