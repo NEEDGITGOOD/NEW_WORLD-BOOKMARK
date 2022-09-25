@@ -1,3 +1,4 @@
+- [trimstray/test-your-sysadmin-skills: A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) #learning#sysadmin
 - [Training](https://learn.microsoft.com/en-us/training/) #courses#learning
 - [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) Podcast #it#ressources
 - [Pushshift Reddit Search](https://redditsearch.io/) Search Reddit #tools#reddit
