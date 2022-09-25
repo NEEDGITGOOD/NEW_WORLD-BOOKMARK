@@ -1,3 +1,4 @@
+- [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) #learning#sysadmin
 - [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) #learning#sysadmin
 - [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) #awesome#ressources#sysadmin
 - [ms/ad - sysadmin](https://www.reddit.com/r/sysadmin/wiki/ms/ad/) #active-directory#sysadmin#learning
