@@ -8,10 +8,10 @@ Ressources/Learning
 - [Startseite - IT-Berufe-Podcast](https://it-berufe-podcast.de/) IT Podcasts
 - [MS Learn ](https://learn.microsoft.com/en-us/training/) MS based learn path
 - [trimstray/test-your-sysadmin-skills: A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields  with these Q/A.](https://github.com/trimstray/test-your-sysadmin-skills) Sysadmin Questionaire
-- [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) #learning#sysadmin
-- [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) #learning#sysadmin
-- [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) #awesome#ressources#sysadmin
-- [ms/ad - sysadmin](https://www.reddit.com/r/sysadmin/wiki/ms/ad/) #active-directory#sysadmin#learning
+- [Knowledgebase - OmniSecu.com](https://www.omnisecu.com/knowledge.php) Wikipedia for IT Terminology/Concepts
+- [Introduction — Ops School Curriculum 0.1 documentation](https://www.opsschool.org/introduction.html) Dokumentation about certain IT Concepts
+- [awesome-foss/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources.](https://github.com/awesome-foss/awesome-sysadmin) 
+- [ms/ad - sysadmin](https://www.reddit.com/r/sysadmin/wiki/ms/ad/) Active Directory Ressources
 - [faq - sysadmin](https://www.reddit.com/r/sysadmin/wiki/faq/) #learning#ressources#sysadmin
 - [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html) #learning#sysadmin
 - [Practice to become a Windows sysadmin?](https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/) #sysadmin#learning#ressources
