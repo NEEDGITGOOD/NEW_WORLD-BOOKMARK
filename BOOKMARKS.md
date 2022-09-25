@@ -1,3 +1,4 @@
+- [faq - sysadmin](https://www.reddit.com/r/sysadmin/wiki/faq/) #learning#ressources#sysadmin
 - [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html) #learning#sysadmin
 - [Practice to become a Windows sysadmin?](https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/) #sysadmin#learning#ressources
 - [index - sysadmin](https://www.reddit.com/r/sysadmin/wiki/index/) #sysadmin#learning
